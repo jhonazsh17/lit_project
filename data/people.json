@@ -1,8 +1,8 @@
 {
     "people": [
         {
-            "name": "Fara Isabel",
-            "lastName": "Castillo Lama",
+            "name": "Manuel",
+            "lastName": "Beovich Lopez",
             "occupation": "Comerciante",
             "modalities": [
                 { "name": "Efectivo", "value": "cash" },
@@ -10,16 +10,16 @@
             ]
         },
         {
-            "name": "Nahia Franccesca",
-            "lastName": "Medina Castillo",
+            "name": "Lara",
+            "lastName": "Campos",
             "occupation": "Estudiante",
             "modalities": [
                 { "name": "Digital", "value": "digital" }
             ]
         },
         {
-            "name": "Charito",
-            "lastName": "Medina Zapata",
+            "name": "Sofia",
+            "lastName": "Martinez Ruiz",
             "occupation": "Contadora",
             "modalities": [
                 { "name": "Efectivo", "value": "cash" },
@@ -27,8 +27,8 @@
             ]
         },
         {
-            "name": "Herminia",
-            "lastName": "Zapata Palacios",
+            "name": "Diego",
+            "lastName": "Fernandez Gomez",
             "occupation": "Desarrollador",
             "modalities": [
                 { "name": "Efectivo", "value": "cash" }
