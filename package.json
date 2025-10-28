@@ -1,0 +1,16 @@
+{
+  "name": "proyecto-lit-e",
+  "version": "1.0.0",
+  "description": "The first project on Lit Element",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "wds --node-resolve --watch --open",
+    "start": "wds --node-resolve --open"
+  },
+  "author": "Jhon F. Medina Zapata",
+  "license": "ISC",
+  "dependencies": {
+    "@web/dev-server": "^0.4.6",
+    "lit": "^3.3.1"
+  }
+}
